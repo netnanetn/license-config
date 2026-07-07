@@ -8,5 +8,7 @@
   "ANTIN1_LPR": true,
   "ANTIN1_C3": true,
   "ANTIN2_LPR": true,
-  "ANTIN2_C3": true
+  "ANTIN2_C3": true,
+  "ST001_LPR": true,
+  "ST001_C3": true
 }
